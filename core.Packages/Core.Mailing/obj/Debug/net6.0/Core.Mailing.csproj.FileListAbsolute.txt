@@ -1,0 +1,13 @@
+C:\Users\ilkin\source\repos\cavid\nArchitecture\core.Packages\Core.Mailing\bin\Debug\net6.0\Core.Mailing.deps.json
+C:\Users\ilkin\source\repos\cavid\nArchitecture\core.Packages\Core.Mailing\bin\Debug\net6.0\Core.Mailing.dll
+C:\Users\ilkin\source\repos\cavid\nArchitecture\core.Packages\Core.Mailing\bin\Debug\net6.0\Core.Mailing.pdb
+C:\Users\ilkin\source\repos\cavid\nArchitecture\core.Packages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.csproj.AssemblyReference.cache
+C:\Users\ilkin\source\repos\cavid\nArchitecture\core.Packages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkin\source\repos\cavid\nArchitecture\core.Packages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.AssemblyInfoInputs.cache
+C:\Users\ilkin\source\repos\cavid\nArchitecture\core.Packages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.AssemblyInfo.cs
+C:\Users\ilkin\source\repos\cavid\nArchitecture\core.Packages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.csproj.CoreCompileInputs.cache
+C:\Users\ilkin\source\repos\cavid\nArchitecture\core.Packages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.sourcelink.json
+C:\Users\ilkin\source\repos\cavid\nArchitecture\core.Packages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.dll
+C:\Users\ilkin\source\repos\cavid\nArchitecture\core.Packages\Core.Mailing\obj\Debug\net6.0\refint\Core.Mailing.dll
+C:\Users\ilkin\source\repos\cavid\nArchitecture\core.Packages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.pdb
+C:\Users\ilkin\source\repos\cavid\nArchitecture\core.Packages\Core.Mailing\obj\Debug\net6.0\ref\Core.Mailing.dll

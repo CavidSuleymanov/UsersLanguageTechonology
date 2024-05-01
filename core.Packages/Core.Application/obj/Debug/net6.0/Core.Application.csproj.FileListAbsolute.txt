@@ -1,0 +1,6 @@
+C:\Users\ilkin\source\repos\cavid\nArchitecture\core.Packages\Core.Application\obj\Debug\net6.0\Core.Application.csproj.AssemblyReference.cache
+C:\Users\ilkin\source\repos\cavid\nArchitecture\core.Packages\Core.Application\obj\Debug\net6.0\Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkin\source\repos\cavid\nArchitecture\core.Packages\Core.Application\obj\Debug\net6.0\Core.Application.AssemblyInfoInputs.cache
+C:\Users\ilkin\source\repos\cavid\nArchitecture\core.Packages\Core.Application\obj\Debug\net6.0\Core.Application.AssemblyInfo.cs
+C:\Users\ilkin\source\repos\cavid\nArchitecture\core.Packages\Core.Application\obj\Debug\net6.0\Core.Application.csproj.CoreCompileInputs.cache
+C:\Users\ilkin\source\repos\cavid\nArchitecture\core.Packages\Core.Application\obj\Debug\net6.0\Core.Application.sourcelink.json
